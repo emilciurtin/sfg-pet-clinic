@@ -50,7 +50,8 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git@github.com:emilciurtin/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:http://emilciurtin:Crezicova1@github.com/emilciurtin/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/emilciurtin/sfg-pet-clinic.git</url>
       <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
